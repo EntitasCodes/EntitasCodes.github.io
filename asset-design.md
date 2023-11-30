@@ -2,6 +2,8 @@
 
 Once you understand the language of assets, it becomes easier to actually write out your asset idea. That being said, there's no one way to do this, so this document is just my personal method on how to think through an asset. I'm going to assume you've read page 240 of the core Ironsworn rulebook. It likely doesn't cover anything you don't already know from studying the assets themselves, but it's a good skim.
 
+## Concepts
+
 Every asset is a concept. The concept is usually well-summarized by the name and type of asset. Concepts can range from the fantastical of "I collect magical essence for tricks and illusions" and "I am haunted by a spirit who I regularly interact with" to the mundane of "I have a dog" or "I make stuff".
 
 I'll use one of the first asset concepts I ever made as an example point: a Rat companion. Not the most outrageous concept out there, but a good one. Rats are clever critters and we could have some fun with these abilities going in all sorts of directions.
@@ -20,6 +22,8 @@ In the end, I decided to discard the fourth and fifth ideas. I personally didn't
 
 Note that, at this point, I haven't even thought about any game mechanics yet. I'm purely thinking about the asset as a narrative tool - when my rat would meaningfully impact the story.
 
+## Mechanics
+
 Only after I've done on that, and have all the narration in mind, is when I start thinking about the mechanics: I have my concept and what sort of highlights it'd add to my play at points. Now how do I translate those into the mechanics of rolling? I take this admittedly pretty freeform. You could deeply get into the number-crunching about what sort of bonuses are more impactful than others, but I try to stick to a few principles:
 
 1. The more specific your context, the better the reward should be. Two case studies for this are Ironsworn's Dancer and Wright, which are fairly specific assets in their nature but provide high bonuses. Compare Wayfinder's first ability, which doesn't even offer an add at all: just +1 momentum, specifically on a strong hit, for what's likely a very common move in your game and features no narrative ties.
@@ -27,6 +31,8 @@ Only after I've done on that, and have all the narration in mind, is when I star
 3. Be very, very careful if you're writing a psuedo-move with its own rules and mechanics. In the worst case, you either create an infinite number machine, or something that's so improbable that trying to use it is a net negative.
 4. Ironsworn assets tend to be simpler. Starforged assets tend to be more involved, and more generous with rerolling dice and presetting dice to certain values.
 5. When in doubt, add +1 and take +1 momentum on a hit. Maybe throw an extra bonus on a strong hit with a match. Hey, they don't all have to be elaborate. Sometimes a boost is just a boost, you know?
+
+## My Rat, Made Real
 
 For scavenging, it was simple: a bonus to the Resupply move, in the context of looking through junk, finding treasure in trash. I added an extra bonus on a strong hit for when your very clever rat finds additional value for you.
 
