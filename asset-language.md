@@ -3,7 +3,7 @@
 Assets are written in a precise, formulaic, consistent manner. You can almost break down the language of an asset's ability like you could the keywords of a magic card (and Starforged spells this out in its glossary). So how do you make your assets read like assets? Let's break down how official assets are written with a few case studies:
 
 ## A basic ability: Ironsworn, Empowered, Ability 2:
-[] When you exert your title or lineage to Compel, add +1 and take +1 momentum on a hit.
+> When you exert your title or lineage to Compel, add +1 and take +1 momentum on a hit.
 
 Extremely simple. We have two parts: the condition to use the ability, and the effect when the condition's met. The condition itself has two parts: a narrative context "when you exert your title or lineage", and a move "to Compel".
 
@@ -16,7 +16,7 @@ Let's look at two other cases: one that's simply a more involved ability, and an
 
 
 ## A complex ability: Starforged, Sleuth, Ability 1:
-[] When you Swear an Iron Vow to solve a murder, disappearance, theft, or other mystery, make the rank of the quest no greater than formidable. Then, when you Gather Information in the course of the investigation, roll three challenge dice and choose two. If any challenge dice match, you must use those values. On a miss with a match, envision what you learn of a deepening conspiracy or betrayal, make the rank of your quest one higher (no greater than epic), and use the new rank when marking future progress.
+> When you Swear an Iron Vow to solve a murder, disappearance, theft, or other mystery, make the rank of the quest no greater than formidable. Then, when you Gather Information in the course of the investigation, roll three challenge dice and choose two. If any challenge dice match, you must use those values. On a miss with a match, envision what you learn of a deepening conspiracy or betrayal, make the rank of your quest one higher (no greater than epic), and use the new rank when marking future progress.
 
 Much longer and more involved of an ability, but it ultimately follows the same structure as the Empowered ability.
 - First, we have our condition: swearing an iron vow to solve a mystery. We're told the rank of the quest can't be higher than formidable.
@@ -26,7 +26,7 @@ Much longer and more involved of an ability, but it ultimately follows the same 
 
 
 ## A self-contained move, Ironsworn, Invoke, Ability 1:
-When you consume the mystical essence of your surroundings, roll +wits. On a strong hit, add the value of your action die to your essence track (max 6). You may then Secure an Advantage or Face Danger +essence to create minor mystical effects or illusions. If you do, suffer -1 essence and take +1 momentum on a hit. On a weak hit, as above, but capturing these energies is harrowing; Endure Stress (2 stress).
+> When you consume the mystical essence of your surroundings, roll +wits. On a strong hit, add the value of your action die to your essence track (max 6). You may then Secure an Advantage or Face Danger +essence to create minor mystical effects or illusions. If you do, suffer -1 essence and take +1 momentum on a hit. On a weak hit, as above, but capturing these energies is harrowing; Endure Stress (2 stress).
 
 This ability has its own stat roll involved, which I usually call a psuedo-move myself.
 - Just like any other ability, we have our narrative condition: consume mystical essence of our surroundings.

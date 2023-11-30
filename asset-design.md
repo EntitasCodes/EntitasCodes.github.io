@@ -30,17 +30,17 @@ Only after I've done on that, and have all the narration in mind, is when I star
 
 For scavenging, it was simple: a bonus to the Resupply move, in the context of looking through junk, finding treasure in trash. I added an extra bonus on a strong hit for when your very clever rat finds additional value for you.
 
-[] When you Resupply by searching wreckage or rubbish, add +1. On a strong hit, your rat finds value: take either +1 supply or +2 momentum.
+> When you Resupply by searching wreckage or rubbish, add +1. On a strong hit, your rat finds value: take either +1 supply or +2 momentum.
 
 For spying, I looked at a similar ability from the Giant Spider asset in Ironsworn: "You may Face Danger +shadow by sending your spider to secretly study someone. On a hit, the spider returns to reveal the target’s deepest fears through a reflection in its glassy eyes. Use this to Gather Information and reroll any dice."
 
 That seems a little excessive for my rat, though, and I definitely didn't want to copy this verbatim. I settled on a more basic move of just giving you a bonus, and left it as an exercise to the reader for how your rat could convey the results of its spying. I changed the wording a little to highlight just using it as a sneak, too:
 
-[] When you Secure an Advantage +shadow by sending your rat to sneak around or to spy on someone, add +1 and take +1 momentum on a hit.
+> When you Secure an Advantage +shadow by sending your rat to sneak around or to spy on someone, add +1 and take +1 momentum on a hit.
 
 For the last ability, I had two thoughts: I wanted the rat to have a very low amount of health (2 seemed right, comparing to the official assets). That'd make it very easy for your rat to die. I figured an ability that made it less painful to sacrifice resources for your rat would not only help with that a little, but add some fun narrative opportunities:
 
-[] When your rat endures harm and you burn momentum to improve the result, envision how they escape the greater danger, and take +2 momentum.
+> When your rat endures harm and you burn momentum to improve the result, envision how they escape the greater danger, and take +2 momentum.
 
 
 And there we go: three abilities for a rat companion. Give it a health track that goes up to +2, and you'd have the asset I used in one of my own campaigns. Following a straightforward process:
