@@ -68,6 +68,7 @@ This work is based on Ironsworn: Starforged (found at www.ironswornrpg.com), cre
 ### Devotant Redux
 
 God's Name: 
+
 Stat: 
 
 - [x] When you say your daily prayers, you may *Secure an Advantage* by asking your god for a blessing. If you do, roll +your god's stat. On a hit, take +2 momentum.
@@ -101,6 +102,7 @@ Stat:
 ### Frog
 
 Name: 
+
 Ritual: 
 
 - [ ] **Mystical**: Choose a Ritual-type asset. When you perform this ritual with your frog's aid, take +2 momentum on a hit.
@@ -124,6 +126,7 @@ Ritual:
 ### Mimic
 
 Name: 
+
 Current Form: 
 
 - [x] **Mimicry**: Your mimic can use the abilities of other animal companion assets that you purchase for its use. When you order your mimic to change forms into another asset to use its abilities, *Companion Endure Harm* (1 harm).
