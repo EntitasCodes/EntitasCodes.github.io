@@ -35,8 +35,7 @@ This work is based on Ironsworn: Starforged (found at www.ironswornrpg.com), cre
 - [ ] When you *Forge a Bond* or *Test Your Bond* by gifting fine goods (decide before rolling), suffer -2 wealth and reroll any dice.
 - [ ] When you or an ally *Sojourn* or *Resupply* and score a strong hit with a match, you may envision finding or trading for an item of great value. If you do, take +1 wealth and +2 momentum.
 
-|  0   |  +1  |  +2  |  +3  |  +4  |  +5  |
-| :--: | :--: | :--: | :--: | :--: | :--: |
+**Asset Track:** 0 to +5
 
 **Notes**: This is a mix of several assets from Starforged and Ironsworn for the purpose of making an asset for a merchant-crafter: someone who makes fine things and sells them. I'm not so sure on the math for actually creating luxury goods.
 
@@ -53,6 +52,8 @@ This work is based on Ironsworn: Starforged (found at www.ironswornrpg.com), cre
 - [x] When you capture the essence of a storm's lightning, roll +iron. On a strong hit, take up to +4 charge. On a weak hit, also *Endure Harm* (2 harm). Then, when you make a move aided by this energy, you may add +2 and suffer -1 charge.
 - [ ] When you have at least +2 charge, you may *Strike* or *Clash* +charge and suffer -2 charge. This move deals 3 harm (before any other modifiers).
 - [ ] When you *Endure Harm* in close combat and score a strong hit, you may discharge your energy into your opponent. Deal up to 3 harm to your opponent, and suffer -charge in an equal amount.
+
+**Asset Track:** 0 to +6
 
 **Notes**: I don't actually remember making this one. I *think* this one is inspired by Starforged's Firebrand but with lightning instead. On the other hand, it's clearly written for Ironsworn because it talks about harm. The third ability is interesting, and overall this asset looks like it can deal a ridiculous amount of harm.
 
@@ -83,8 +84,7 @@ Stat:
 - [ ] You may spend time digesting to restore yourself in mind and body. If you do, suffer -1 momentum and -1 stomach to for each point of health or spirit you take.
 - [ ] When you burn momentum, you may reset your momentum to your stomach value. Then, set your stomach to 0.
 
-|  0   |  +1  |  +2  |  +3  |  +4  |  +5  |  +6  |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+**Asset Track:** 0 to +6
 
 **Notes**: Hungry, Hungry Ironsworn. Iron doesn't get enough fun assets. Untested, but potential to be fun once you finally build up a full stomach. Implies you'll be doing a LOT of fighting, since getting full stomach itself means either 3 Dangerous or 2 Formidable fights. The second ability is potentially strong, since you get to bypass any risk of actually having to roll to recover. On the other hand, you had to fight and make the devour move in the first place.
 
@@ -94,8 +94,7 @@ Stat:
 - [ ] Your doll has 3 health.
 - [ ] When you have an hour or so to mend the doll and have 1 or more Supply, you may suffer -1 Supply. If you do, the doll may take +1 health.
 
-|  0   |  +1  |  +2  |  +3  |
-| :--: | :--: | :--: | :--: |
+**Asset Track:** 0 to +3
 
 **Notes**: This is a reskin/reflavoring of the Awakening ritual. Nothing particularly exciting here, I wanted a controllable creation that didn't have the risk of turning on me. In return, it's a bit less powerful (but more generally versatile). Mending the doll is probably not mechanically wise but it's cute. This asset is technically for Ironsworn because Starforged has an explicit Sacrifice Resources move, but there's nothing really stopping you from using it in that system either.
 
@@ -108,8 +107,7 @@ Ritual:
 - [ ] **Easygoing**: When you *Make Camp*, your frog croaks and sings. Roll +heart. On a hit, take +1 spirit.
 - [ ] **Transformative**: When you acquire a new asset, you may discard another asset. If you do, you may Advance your new asset once with no experience cost. Then, take +2 spirit and +3 momentum.
 
-|  0   |  +1  |  +2  |
-| :--: | :--: | :--: |
+**Asset Track:** 0 to +2
 
 **Notes**: Untested Frog companion. Transformative is meant to encourage you to discard assets to boost new ones. It's a net loss of experience value (Even if you didn't advance the discarded asset, you're "discarding" 3 experience for a perk worth 2 experience), but the thought is that a character using Frog wouldn't build up a massive collection of 20 asset cards: they'd keep cycling and changing over their life. It probably wouldn't work out so great in practice.
 
@@ -119,8 +117,7 @@ Ritual:
 - [ ] When you make a move to aid another through their emotional distress, you may get the hugbot's help. If you do (decide before rolling), add +its health, but treat a weak hit as a miss as its advice comes off as disturbing and violent.
 - [ ] Your hugbot can actually hug now. When you Endure Stress and score a miss with a match, your hugbot tries to comfort you through your trouble. Reroll any dice and, on a hit, take +your hugbot's health as momentum.
 
-|  0   |  +1  |  +2  |  +3  |
-| :--: | :--: | :--: | :--: |
+**Asset Track:** 0 to +3
 
 **Notes**: Written as a gag asset, but potentially quite usable. This one follows the Starforged convention for companions, where the first ability is pre-marked (instead of choosing any of the three when you acquire it).
 
@@ -133,8 +130,7 @@ Current Form:
 - [ ] **Utility**: You may *Check Your Gear* +your mimic's health to have your mimic temporarily shift into a needed item. If you do, on a weak hit, *Companion Endure Harm* (1 harm) instead of suffering -1 supply.
 - [ ] **Mimicry+**: Your mimic acquires the Kindred asset. Your mimic can shift into any individual you have a bond with, and utilize an appropriate expertise.
 
-|  0   |  +1  |  +2  |  +3  |  +4  |
-| :--: | :--: | :--: | :--: | :--: |
+**Asset Track:** 0 to +4
 
 **Notes**: Do you like companions and their abilities? Do you have just too many companion cards to manage narratively? Why have 3 birds, a cat, a dog, and a mammoth, when you can have just 1 mimic pet that turns into any of those as appropriate? This pet follows the Starforged convention of having the first ability pre-marked (instead of the Ironsworn convention where you can choose any of the three). Doppelganger might be a better name for this asset, I don't know. You decide.
 
@@ -146,8 +142,7 @@ Name:
 - [ ] When you *Secure an Advantage* +shadow by sending your rat to sneak around or to spy on someone, add +1 and take +1 momentum on a hit.
 - [ ] When your rat endures harm and you burn momentum to improve the result, envision how they escape the greater danger, and take +2 momentum.
 
-|  0   |  +1  |  +2  |
-| :--: | :--: | :--: |
+**Asset Track:** 0 to +2
 
 **Notes**: Oh, hey, I wrote about making this asset in one of my [asset writing guides](/asset-design.md). You could really read that to get more information, but this is a low-health utility guy whose third ability is meant to indirectly help you keep him safe. Burning momentum on Companion Endures Harm doesn't sting quite as bad when doing so gives you a bit of a refund for it.
 

@@ -5,4 +5,4 @@ I write things and put them here.
 ## Ironsworn
 - [Breaking Down The Language of Assets](/asset-language.md)
 - [Designing an Asset from Concept to Mechanics](/asset-design.md)
-- todo: add a bunch of assets I wrote here
+- [Asset Depot: A bunch of my homebrew asset creations](/asset-depot.md)
