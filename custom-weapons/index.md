@@ -12,7 +12,7 @@
 
 ### Quick Links
 
-> For the raw list of assets, see the separate [Asset page](/custom-weapons/assets.md).
+> For the raw list of assets, see the separate [Asset page](/custom-weapons/assets.html).
 
 ### Introduction
 
