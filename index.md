@@ -3,6 +3,10 @@
 I write things and put them here.
 
 ## Ironsworn
-- [Breaking Down The Language of Assets](/asset-language.md)
-- [Designing an Asset from Concept to Mechanics](/asset-design.md)
-- [Asset Depot: A bunch of my homebrew asset creations](/asset-depot.md)
+- Stuff I wrote:
+  - [Ironsworn and Magic](/ironsworn-magic.md)
+  - [Breaking Down The Language of Assets](/asset-language.md)
+  - [Designing an Asset from Concept to Mechanics](/asset-design.md)
+- Homebrew Creations:
+  - [Asset Depot: An eclectic collection of homebrewed assets](/asset-depot.md)
+  - [Custom Weapons Asset Pack](/custom-weapons/index.md)
