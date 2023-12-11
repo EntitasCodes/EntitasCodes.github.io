@@ -44,7 +44,7 @@ Weapon Mod cards come in five varieties: Melee, Ranged, Light, Heavy, and Exotic
 
 When you purchase a Weapon Mod, you may mark 1 of its 2 abilities immediately. You may *Advance* it to purchase the remaining ability with 2 experience, like any other asset.
 
-> See the separate [Asset page](/custom-weapons/assets.md) for the collection of Weapon Mod assets.
+> See the separate [Asset page](/custom-weapons/assets.html) for the collection of Weapon Mod assets.
 
 ### Your Weapon in the Fiction
 
