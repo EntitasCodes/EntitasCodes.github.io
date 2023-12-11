@@ -20,7 +20,7 @@ Weapons. Most Ironsworn carry one. Some even have to use them. They come in all 
 
 And then there's a truly Custom Weapon.
 
-This asset pack features 1 Custom Weapon, an asset to represent a weapon you can build and shape into your own. Assemble your own super-sized combat asset with 20 different abilities - 5 categories, with 2 cards, featuring 2 abilities each - and make your weapon, your way.
+This asset pack features 1 Custom Weapon, an asset to represent a weapon you can build and shape into your own. Choose from 10 different mod cards for varying styles and approaches to make your weapon, your way.
 
 ### The Custom Weapon
 
