@@ -11,3 +11,4 @@ I write things and put them here.
   - [Asset Depot: An eclectic collection of homebrewed assets](/asset-depot.md)
   - [Custom Weapons Asset Pack](/custom-weapons/index.md)
   - [Command Vehicles for Starforged](/command-vehicles.md)
+  - [Power-ups](/powerups.md)

@@ -6,12 +6,18 @@ I'm so sorry.
 
 These are written to try and work with both systems without the need to reword anything. While somewhat written loosely and lightheartedly, there's perhaps enough meat here that I thought it'd be worth sharing. Please, enjoy. Or don't.
 
+Please don't sue me, Shawn:
+
+This work is based on Ironsworn (found at www.ironswornrpg.com), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).
+
+This work is based on Ironsworn: Starforged (found at www.ironswornrpg.com), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).
+
 ## Table of Contents
 - [Power-ups](#power-ups)
 - [Moves](#moves)
 - - [Acquire a Power-up](#acquire-a-power-up)
 - - [Lose a Power-up](#lose-a-power-up)
-- [Legally Distinct Power-up Cards](#legally-distinct-power-up-cards)
+- [Power-up Cards](#power-up-cards)
 - - [Animal Tail](#animal-tail)
 - - [Kinetic Shot](#kinetic-shot)
 - - [Amphibious Attire](#amphibious-attire)
@@ -59,7 +65,7 @@ Power-ups are not forever. Getting hit will cost you your power-up. You may also
 Power-ups are best treated easy-come, easy-go. While you rarely are forced to Endure Harm, keeping your power-up forever can be "free" flexibility. Once you have your power-up, free free to use it as much as you like, but don't be afraid to take it away from yourself as a source of tension. You can always **Acquire a Power-up** to get another one.
 
 
-## Legally Distinct Power-up Cards
+## Power-up Cards
 
 Here are some cards that are based on no franchise whatsoever.
 
