@@ -15,13 +15,13 @@ This work is based on Ironsworn: Starforged (found at www.ironswornrpg.com), cre
 ## Table of Contents
 - [Power-ups](#power-ups)
 - [Moves](#moves)
-- - [Acquire a Power-up](#acquire-a-power-up)
-- - [Lose a Power-up](#lose-a-power-up)
+  - [Acquire a Power-up](#acquire-a-power-up)
+  - [Lose a Power-up](#lose-a-power-up)
 - [Power-up Cards](#power-up-cards)
-- - [Animal Tail](#animal-tail)
-- - [Kinetic Shot](#kinetic-shot)
-- - [Amphibious Attire](#amphibious-attire)
-- - [Clodhopper](#clodhopper)
+  - [Animal Tail](#animal-tail)
+  - [Kinetic Shot](#kinetic-shot)
+  - [Amphibious Attire](#amphibious-attire)
+  - [Clodhopper](#clodhopper)
 
 ## Power-ups
 
