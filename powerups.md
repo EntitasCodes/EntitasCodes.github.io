@@ -7,15 +7,15 @@ I'm so sorry.
 These are written to try and work with both systems without the need to reword anything. While somewhat written loosely and lightheartedly, there's perhaps enough meat here that I thought it'd be worth sharing. Please, enjoy. Or don't.
 
 ## Table of Contents
-- Power-ups
-- Moves
-- - Acquire a Power-up
-- - Lose a Power-up
-- Legally Distinct Power-up Cards
-- - Animal Tail
-- - Kinetic Shot
-- - Amphibious Attire
-- - Clodhopper
+- [Power-ups](#power-ups)
+- [Moves](#moves)
+- - [Acquire a Power-up](#acquire-a-power-up)
+- - [Lose a Power-up](#lose-a-power-up)
+- [Legally Distinct Power-up Cards](#legally-distinct-power-up-cards)
+- - [Animal Tail](#animal-tail)
+- - [Kinetic Shot](#kinetic-shot)
+- - [Amphibious Attire](#amphibious-attire)
+- - [Clodhopper](#clodhopper)
 
 ## Power-ups
 
